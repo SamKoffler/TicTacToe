@@ -1,6 +1,8 @@
 import pygame
 from pygame.locals import *
 
+# Code is completed to check for ties
+
 pygame.init()
 
 screen_width = 300
